@@ -13,7 +13,11 @@
 		 url('/assets/fonts/open-sans-v13-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
 		 url('/assets/fonts/open-sans-v13-latin-regular.svg#OpenSans') format('svg'); /* Legacy iOS */
 }
-  
+
+.active {
+	background-color: green;
+}
+
 html {
 	overflow: hidden;
 	height: 100%;

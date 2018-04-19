@@ -4,4 +4,8 @@ import { Component } from '@angular/core';
   selector: 'app-root',
   templateUrl: './app.template.html'
 })
-export class AppComponent { }
+export class AppComponent { 
+  highlighted = true;
+
+
+}
